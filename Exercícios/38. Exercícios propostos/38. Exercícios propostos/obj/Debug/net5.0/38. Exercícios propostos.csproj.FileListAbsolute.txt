@@ -1,0 +1,16 @@
+C:\Users\felip\source\C#\Primeiros passos\Exercícios\38. Exercícios propostos\38. Exercícios propostos\bin\Debug\net5.0\38. Exercícios propostos.exe
+C:\Users\felip\source\C#\Primeiros passos\Exercícios\38. Exercícios propostos\38. Exercícios propostos\bin\Debug\net5.0\38. Exercícios propostos.deps.json
+C:\Users\felip\source\C#\Primeiros passos\Exercícios\38. Exercícios propostos\38. Exercícios propostos\bin\Debug\net5.0\38. Exercícios propostos.runtimeconfig.json
+C:\Users\felip\source\C#\Primeiros passos\Exercícios\38. Exercícios propostos\38. Exercícios propostos\bin\Debug\net5.0\38. Exercícios propostos.runtimeconfig.dev.json
+C:\Users\felip\source\C#\Primeiros passos\Exercícios\38. Exercícios propostos\38. Exercícios propostos\bin\Debug\net5.0\38. Exercícios propostos.dll
+C:\Users\felip\source\C#\Primeiros passos\Exercícios\38. Exercícios propostos\38. Exercícios propostos\bin\Debug\net5.0\ref\38. Exercícios propostos.dll
+C:\Users\felip\source\C#\Primeiros passos\Exercícios\38. Exercícios propostos\38. Exercícios propostos\bin\Debug\net5.0\38. Exercícios propostos.pdb
+C:\Users\felip\source\C#\Primeiros passos\Exercícios\38. Exercícios propostos\38. Exercícios propostos\obj\Debug\net5.0\38. Exercícios propostos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\source\C#\Primeiros passos\Exercícios\38. Exercícios propostos\38. Exercícios propostos\obj\Debug\net5.0\38. Exercícios propostos.AssemblyInfoInputs.cache
+C:\Users\felip\source\C#\Primeiros passos\Exercícios\38. Exercícios propostos\38. Exercícios propostos\obj\Debug\net5.0\38. Exercícios propostos.AssemblyInfo.cs
+C:\Users\felip\source\C#\Primeiros passos\Exercícios\38. Exercícios propostos\38. Exercícios propostos\obj\Debug\net5.0\38. Exercícios propostos.csproj.CoreCompileInputs.cache
+C:\Users\felip\source\C#\Primeiros passos\Exercícios\38. Exercícios propostos\38. Exercícios propostos\obj\Debug\net5.0\38. Exercícios propostos.dll
+C:\Users\felip\source\C#\Primeiros passos\Exercícios\38. Exercícios propostos\38. Exercícios propostos\obj\Debug\net5.0\ref\38. Exercícios propostos.dll
+C:\Users\felip\source\C#\Primeiros passos\Exercícios\38. Exercícios propostos\38. Exercícios propostos\obj\Debug\net5.0\38. Exercícios propostos.pdb
+C:\Users\felip\source\C#\Primeiros passos\Exercícios\38. Exercícios propostos\38. Exercícios propostos\obj\Debug\net5.0\38. Exercícios propostos.genruntimeconfig.cache
+C:\Users\felip\source\C#\Primeiros passos\Exercícios\38. Exercícios propostos\38. Exercícios propostos\obj\Debug\net5.0\38. Exercícios propostos.csproj.AssemblyReference.cache

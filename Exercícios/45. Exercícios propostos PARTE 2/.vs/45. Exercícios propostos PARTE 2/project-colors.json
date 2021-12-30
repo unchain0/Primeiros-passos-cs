@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9c928ee6-ee22-402e-b632-3d62539686c6": {
+      "ProjectGuid": "9c928ee6-ee22-402e-b632-3d62539686c6",
+      "DisplayName": "45. Exercícios propostos PARTE 2",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}

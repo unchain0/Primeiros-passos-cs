@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "aPCLQ4HeCBY8xQOA9KDat9g/SCsVR+mLEBdefcCNHl5TeqJK3L9Q3RqTUoyx/pVeIasvWClJ1EPKT0vF7nCHqw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\felip\\source\\C#\\Primeiros passos\\Exercícios\\45. Exercícios propostos PARTE 2\\45. Exercícios propostos PARTE 2\\45. Exercícios propostos PARTE 2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\felip\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.11\\microsoft.netcore.app.host.win-x64.5.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

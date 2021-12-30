@@ -1,0 +1,16 @@
+C:\Users\felip\source\C#\Primeiros passos\Aulas\51. Estrutura repetitiva faça-enquanto\51. Estrutura repetitiva faça-enquanto\bin\Debug\net5.0\51. Estrutura repetitiva faça-enquanto.exe
+C:\Users\felip\source\C#\Primeiros passos\Aulas\51. Estrutura repetitiva faça-enquanto\51. Estrutura repetitiva faça-enquanto\bin\Debug\net5.0\51. Estrutura repetitiva faça-enquanto.deps.json
+C:\Users\felip\source\C#\Primeiros passos\Aulas\51. Estrutura repetitiva faça-enquanto\51. Estrutura repetitiva faça-enquanto\bin\Debug\net5.0\51. Estrutura repetitiva faça-enquanto.runtimeconfig.json
+C:\Users\felip\source\C#\Primeiros passos\Aulas\51. Estrutura repetitiva faça-enquanto\51. Estrutura repetitiva faça-enquanto\bin\Debug\net5.0\51. Estrutura repetitiva faça-enquanto.runtimeconfig.dev.json
+C:\Users\felip\source\C#\Primeiros passos\Aulas\51. Estrutura repetitiva faça-enquanto\51. Estrutura repetitiva faça-enquanto\bin\Debug\net5.0\51. Estrutura repetitiva faça-enquanto.dll
+C:\Users\felip\source\C#\Primeiros passos\Aulas\51. Estrutura repetitiva faça-enquanto\51. Estrutura repetitiva faça-enquanto\bin\Debug\net5.0\ref\51. Estrutura repetitiva faça-enquanto.dll
+C:\Users\felip\source\C#\Primeiros passos\Aulas\51. Estrutura repetitiva faça-enquanto\51. Estrutura repetitiva faça-enquanto\bin\Debug\net5.0\51. Estrutura repetitiva faça-enquanto.pdb
+C:\Users\felip\source\C#\Primeiros passos\Aulas\51. Estrutura repetitiva faça-enquanto\51. Estrutura repetitiva faça-enquanto\obj\Debug\net5.0\51. Estrutura repetitiva faça-enquanto.csproj.AssemblyReference.cache
+C:\Users\felip\source\C#\Primeiros passos\Aulas\51. Estrutura repetitiva faça-enquanto\51. Estrutura repetitiva faça-enquanto\obj\Debug\net5.0\51. Estrutura repetitiva faça-enquanto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\source\C#\Primeiros passos\Aulas\51. Estrutura repetitiva faça-enquanto\51. Estrutura repetitiva faça-enquanto\obj\Debug\net5.0\51. Estrutura repetitiva faça-enquanto.AssemblyInfoInputs.cache
+C:\Users\felip\source\C#\Primeiros passos\Aulas\51. Estrutura repetitiva faça-enquanto\51. Estrutura repetitiva faça-enquanto\obj\Debug\net5.0\51. Estrutura repetitiva faça-enquanto.AssemblyInfo.cs
+C:\Users\felip\source\C#\Primeiros passos\Aulas\51. Estrutura repetitiva faça-enquanto\51. Estrutura repetitiva faça-enquanto\obj\Debug\net5.0\51. Estrutura repetitiva faça-enquanto.csproj.CoreCompileInputs.cache
+C:\Users\felip\source\C#\Primeiros passos\Aulas\51. Estrutura repetitiva faça-enquanto\51. Estrutura repetitiva faça-enquanto\obj\Debug\net5.0\51. Estrutura repetitiva faça-enquanto.dll
+C:\Users\felip\source\C#\Primeiros passos\Aulas\51. Estrutura repetitiva faça-enquanto\51. Estrutura repetitiva faça-enquanto\obj\Debug\net5.0\ref\51. Estrutura repetitiva faça-enquanto.dll
+C:\Users\felip\source\C#\Primeiros passos\Aulas\51. Estrutura repetitiva faça-enquanto\51. Estrutura repetitiva faça-enquanto\obj\Debug\net5.0\51. Estrutura repetitiva faça-enquanto.pdb
+C:\Users\felip\source\C#\Primeiros passos\Aulas\51. Estrutura repetitiva faça-enquanto\51. Estrutura repetitiva faça-enquanto\obj\Debug\net5.0\51. Estrutura repetitiva faça-enquanto.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\felip\source\C#\Primeiros passos\Exercícios\33. Exercício resolvido 01\33. Exercício resolvido 01\bin\Debug\net5.0\33-35. Exercícios resolvidos.exe
+C:\Users\felip\source\C#\Primeiros passos\Exercícios\33. Exercício resolvido 01\33. Exercício resolvido 01\bin\Debug\net5.0\33-35. Exercícios resolvidos.deps.json
+C:\Users\felip\source\C#\Primeiros passos\Exercícios\33. Exercício resolvido 01\33. Exercício resolvido 01\bin\Debug\net5.0\33-35. Exercícios resolvidos.runtimeconfig.json
+C:\Users\felip\source\C#\Primeiros passos\Exercícios\33. Exercício resolvido 01\33. Exercício resolvido 01\bin\Debug\net5.0\33-35. Exercícios resolvidos.runtimeconfig.dev.json
+C:\Users\felip\source\C#\Primeiros passos\Exercícios\33. Exercício resolvido 01\33. Exercício resolvido 01\bin\Debug\net5.0\33-35. Exercícios resolvidos.dll
+C:\Users\felip\source\C#\Primeiros passos\Exercícios\33. Exercício resolvido 01\33. Exercício resolvido 01\bin\Debug\net5.0\ref\33-35. Exercícios resolvidos.dll
+C:\Users\felip\source\C#\Primeiros passos\Exercícios\33. Exercício resolvido 01\33. Exercício resolvido 01\bin\Debug\net5.0\33-35. Exercícios resolvidos.pdb
+C:\Users\felip\source\C#\Primeiros passos\Exercícios\33. Exercício resolvido 01\33. Exercício resolvido 01\obj\Debug\net5.0\33-35. Exercícios resolvidos.csproj.AssemblyReference.cache
+C:\Users\felip\source\C#\Primeiros passos\Exercícios\33. Exercício resolvido 01\33. Exercício resolvido 01\obj\Debug\net5.0\33-35. Exercícios resolvidos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\source\C#\Primeiros passos\Exercícios\33. Exercício resolvido 01\33. Exercício resolvido 01\obj\Debug\net5.0\33-35. Exercícios resolvidos.AssemblyInfoInputs.cache
+C:\Users\felip\source\C#\Primeiros passos\Exercícios\33. Exercício resolvido 01\33. Exercício resolvido 01\obj\Debug\net5.0\33-35. Exercícios resolvidos.AssemblyInfo.cs
+C:\Users\felip\source\C#\Primeiros passos\Exercícios\33. Exercício resolvido 01\33. Exercício resolvido 01\obj\Debug\net5.0\33-35. Exercícios resolvidos.csproj.CoreCompileInputs.cache
+C:\Users\felip\source\C#\Primeiros passos\Exercícios\33. Exercício resolvido 01\33. Exercício resolvido 01\obj\Debug\net5.0\33-35. Exercícios resolvidos.dll
+C:\Users\felip\source\C#\Primeiros passos\Exercícios\33. Exercício resolvido 01\33. Exercício resolvido 01\obj\Debug\net5.0\ref\33-35. Exercícios resolvidos.dll
+C:\Users\felip\source\C#\Primeiros passos\Exercícios\33. Exercício resolvido 01\33. Exercício resolvido 01\obj\Debug\net5.0\33-35. Exercícios resolvidos.pdb
+C:\Users\felip\source\C#\Primeiros passos\Exercícios\33. Exercício resolvido 01\33. Exercício resolvido 01\obj\Debug\net5.0\33-35. Exercícios resolvidos.genruntimeconfig.cache

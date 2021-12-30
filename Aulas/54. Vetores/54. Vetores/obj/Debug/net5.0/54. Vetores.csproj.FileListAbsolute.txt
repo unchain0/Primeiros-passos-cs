@@ -1,0 +1,16 @@
+C:\Users\felip\source\C#\Primeiros passos\Aulas\54. Vetores\54. Vetores\bin\Debug\net5.0\54. Vetores.exe
+C:\Users\felip\source\C#\Primeiros passos\Aulas\54. Vetores\54. Vetores\bin\Debug\net5.0\54. Vetores.deps.json
+C:\Users\felip\source\C#\Primeiros passos\Aulas\54. Vetores\54. Vetores\bin\Debug\net5.0\54. Vetores.runtimeconfig.json
+C:\Users\felip\source\C#\Primeiros passos\Aulas\54. Vetores\54. Vetores\bin\Debug\net5.0\54. Vetores.runtimeconfig.dev.json
+C:\Users\felip\source\C#\Primeiros passos\Aulas\54. Vetores\54. Vetores\bin\Debug\net5.0\54. Vetores.dll
+C:\Users\felip\source\C#\Primeiros passos\Aulas\54. Vetores\54. Vetores\bin\Debug\net5.0\ref\54. Vetores.dll
+C:\Users\felip\source\C#\Primeiros passos\Aulas\54. Vetores\54. Vetores\bin\Debug\net5.0\54. Vetores.pdb
+C:\Users\felip\source\C#\Primeiros passos\Aulas\54. Vetores\54. Vetores\obj\Debug\net5.0\54. Vetores.csproj.AssemblyReference.cache
+C:\Users\felip\source\C#\Primeiros passos\Aulas\54. Vetores\54. Vetores\obj\Debug\net5.0\54. Vetores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\source\C#\Primeiros passos\Aulas\54. Vetores\54. Vetores\obj\Debug\net5.0\54. Vetores.AssemblyInfoInputs.cache
+C:\Users\felip\source\C#\Primeiros passos\Aulas\54. Vetores\54. Vetores\obj\Debug\net5.0\54. Vetores.AssemblyInfo.cs
+C:\Users\felip\source\C#\Primeiros passos\Aulas\54. Vetores\54. Vetores\obj\Debug\net5.0\54. Vetores.csproj.CoreCompileInputs.cache
+C:\Users\felip\source\C#\Primeiros passos\Aulas\54. Vetores\54. Vetores\obj\Debug\net5.0\54. Vetores.dll
+C:\Users\felip\source\C#\Primeiros passos\Aulas\54. Vetores\54. Vetores\obj\Debug\net5.0\ref\54. Vetores.dll
+C:\Users\felip\source\C#\Primeiros passos\Aulas\54. Vetores\54. Vetores\obj\Debug\net5.0\54. Vetores.pdb
+C:\Users\felip\source\C#\Primeiros passos\Aulas\54. Vetores\54. Vetores\obj\Debug\net5.0\54. Vetores.genruntimeconfig.cache

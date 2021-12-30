@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qz4TplBCshM11Dam/iYLSHY5XrHznuchu/Ufu+TzYfLnQZtC3IxN0kczwQKPpN2IUvRD4LhIRtk3G4Soo+xIEw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\felip\\source\\C#\\Primeiros passos\\Aulas\\63. Matrizes\\63. Matrizes\\63. Matrizes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\felip\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.11\\microsoft.netcore.app.host.win-x64.5.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

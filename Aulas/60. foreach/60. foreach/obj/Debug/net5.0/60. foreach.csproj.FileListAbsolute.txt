@@ -1,0 +1,16 @@
+C:\Users\felip\source\C#\Primeiros passos\Aulas\60. foreach\60. foreach\bin\Debug\net5.0\60. foreach.exe
+C:\Users\felip\source\C#\Primeiros passos\Aulas\60. foreach\60. foreach\bin\Debug\net5.0\60. foreach.deps.json
+C:\Users\felip\source\C#\Primeiros passos\Aulas\60. foreach\60. foreach\bin\Debug\net5.0\60. foreach.runtimeconfig.json
+C:\Users\felip\source\C#\Primeiros passos\Aulas\60. foreach\60. foreach\bin\Debug\net5.0\60. foreach.runtimeconfig.dev.json
+C:\Users\felip\source\C#\Primeiros passos\Aulas\60. foreach\60. foreach\bin\Debug\net5.0\60. foreach.dll
+C:\Users\felip\source\C#\Primeiros passos\Aulas\60. foreach\60. foreach\bin\Debug\net5.0\ref\60. foreach.dll
+C:\Users\felip\source\C#\Primeiros passos\Aulas\60. foreach\60. foreach\bin\Debug\net5.0\60. foreach.pdb
+C:\Users\felip\source\C#\Primeiros passos\Aulas\60. foreach\60. foreach\obj\Debug\net5.0\60. foreach.csproj.AssemblyReference.cache
+C:\Users\felip\source\C#\Primeiros passos\Aulas\60. foreach\60. foreach\obj\Debug\net5.0\60. foreach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\source\C#\Primeiros passos\Aulas\60. foreach\60. foreach\obj\Debug\net5.0\60. foreach.AssemblyInfoInputs.cache
+C:\Users\felip\source\C#\Primeiros passos\Aulas\60. foreach\60. foreach\obj\Debug\net5.0\60. foreach.AssemblyInfo.cs
+C:\Users\felip\source\C#\Primeiros passos\Aulas\60. foreach\60. foreach\obj\Debug\net5.0\60. foreach.csproj.CoreCompileInputs.cache
+C:\Users\felip\source\C#\Primeiros passos\Aulas\60. foreach\60. foreach\obj\Debug\net5.0\60. foreach.dll
+C:\Users\felip\source\C#\Primeiros passos\Aulas\60. foreach\60. foreach\obj\Debug\net5.0\ref\60. foreach.dll
+C:\Users\felip\source\C#\Primeiros passos\Aulas\60. foreach\60. foreach\obj\Debug\net5.0\60. foreach.pdb
+C:\Users\felip\source\C#\Primeiros passos\Aulas\60. foreach\60. foreach\obj\Debug\net5.0\60. foreach.genruntimeconfig.cache

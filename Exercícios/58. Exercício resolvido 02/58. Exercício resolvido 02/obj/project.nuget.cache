@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hEAFPW+lxX70aP7r9tV+y8ciBglmRV4FzvaXW3zRQoeq5wyRyiVNqIS8O8W4N7sbRcFVEX+b4SZzCX+IdhERPQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\felip\\source\\C#\\Primeiros passos\\Exercícios\\58. Exercício resolvido 02\\58. Exercício resolvido 02\\58. Exercício resolvido 02.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\felip\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.11\\microsoft.netcore.app.host.win-x64.5.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

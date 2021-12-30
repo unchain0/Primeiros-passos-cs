@@ -1,0 +1,16 @@
+C:\Users\felip\source\C#\Primeiros passos\Aulas\36. Sintaxe opcional\36. Sintaxe opcional\bin\Debug\net5.0\36. Sintaxe opcional.exe
+C:\Users\felip\source\C#\Primeiros passos\Aulas\36. Sintaxe opcional\36. Sintaxe opcional\bin\Debug\net5.0\36. Sintaxe opcional.deps.json
+C:\Users\felip\source\C#\Primeiros passos\Aulas\36. Sintaxe opcional\36. Sintaxe opcional\bin\Debug\net5.0\36. Sintaxe opcional.runtimeconfig.json
+C:\Users\felip\source\C#\Primeiros passos\Aulas\36. Sintaxe opcional\36. Sintaxe opcional\bin\Debug\net5.0\36. Sintaxe opcional.runtimeconfig.dev.json
+C:\Users\felip\source\C#\Primeiros passos\Aulas\36. Sintaxe opcional\36. Sintaxe opcional\bin\Debug\net5.0\36. Sintaxe opcional.dll
+C:\Users\felip\source\C#\Primeiros passos\Aulas\36. Sintaxe opcional\36. Sintaxe opcional\bin\Debug\net5.0\ref\36. Sintaxe opcional.dll
+C:\Users\felip\source\C#\Primeiros passos\Aulas\36. Sintaxe opcional\36. Sintaxe opcional\bin\Debug\net5.0\36. Sintaxe opcional.pdb
+C:\Users\felip\source\C#\Primeiros passos\Aulas\36. Sintaxe opcional\36. Sintaxe opcional\obj\Debug\net5.0\36. Sintaxe opcional.csproj.AssemblyReference.cache
+C:\Users\felip\source\C#\Primeiros passos\Aulas\36. Sintaxe opcional\36. Sintaxe opcional\obj\Debug\net5.0\36. Sintaxe opcional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\source\C#\Primeiros passos\Aulas\36. Sintaxe opcional\36. Sintaxe opcional\obj\Debug\net5.0\36. Sintaxe opcional.AssemblyInfoInputs.cache
+C:\Users\felip\source\C#\Primeiros passos\Aulas\36. Sintaxe opcional\36. Sintaxe opcional\obj\Debug\net5.0\36. Sintaxe opcional.AssemblyInfo.cs
+C:\Users\felip\source\C#\Primeiros passos\Aulas\36. Sintaxe opcional\36. Sintaxe opcional\obj\Debug\net5.0\36. Sintaxe opcional.csproj.CoreCompileInputs.cache
+C:\Users\felip\source\C#\Primeiros passos\Aulas\36. Sintaxe opcional\36. Sintaxe opcional\obj\Debug\net5.0\36. Sintaxe opcional.dll
+C:\Users\felip\source\C#\Primeiros passos\Aulas\36. Sintaxe opcional\36. Sintaxe opcional\obj\Debug\net5.0\ref\36. Sintaxe opcional.dll
+C:\Users\felip\source\C#\Primeiros passos\Aulas\36. Sintaxe opcional\36. Sintaxe opcional\obj\Debug\net5.0\36. Sintaxe opcional.pdb
+C:\Users\felip\source\C#\Primeiros passos\Aulas\36. Sintaxe opcional\36. Sintaxe opcional\obj\Debug\net5.0\36. Sintaxe opcional.genruntimeconfig.cache

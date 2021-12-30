@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nhZCohLI7iQ6QfNlVsT6qktjJLhUudF+xIzVhg4fXuX6TP412+f4vv8dC2saHxiMd42LzZmNLswspLur59qs0w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\felip\\source\\C#\\Primeiros passos\\Aulas\\46. Estrutura repetitiva para\\46. Estrutura repetitiva para\\46. Estrutura repetitiva para.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\felip\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.11\\microsoft.netcore.app.host.win-x64.5.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gESuX2+Gto9ihWDL+TiD01uOF0+WurjsesPkmbVoYDfmEdeFIMc0Bt5Wdja6sKfyJlZwm5HTaLxOy0yoMCz8ZQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\felip\\source\\C#\\Primeiros passos\\Aulas\\60. foreach\\60. foreach\\60. foreach.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\felip\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.11\\microsoft.netcore.app.host.win-x64.5.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

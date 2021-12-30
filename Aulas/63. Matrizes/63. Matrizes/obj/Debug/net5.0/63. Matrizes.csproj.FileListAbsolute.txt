@@ -1,0 +1,16 @@
+C:\Users\felip\source\C#\Primeiros passos\Aulas\63. Matrizes\63. Matrizes\bin\Debug\net5.0\63. Matrizes.exe
+C:\Users\felip\source\C#\Primeiros passos\Aulas\63. Matrizes\63. Matrizes\bin\Debug\net5.0\63. Matrizes.deps.json
+C:\Users\felip\source\C#\Primeiros passos\Aulas\63. Matrizes\63. Matrizes\bin\Debug\net5.0\63. Matrizes.runtimeconfig.json
+C:\Users\felip\source\C#\Primeiros passos\Aulas\63. Matrizes\63. Matrizes\bin\Debug\net5.0\63. Matrizes.runtimeconfig.dev.json
+C:\Users\felip\source\C#\Primeiros passos\Aulas\63. Matrizes\63. Matrizes\bin\Debug\net5.0\63. Matrizes.dll
+C:\Users\felip\source\C#\Primeiros passos\Aulas\63. Matrizes\63. Matrizes\bin\Debug\net5.0\ref\63. Matrizes.dll
+C:\Users\felip\source\C#\Primeiros passos\Aulas\63. Matrizes\63. Matrizes\bin\Debug\net5.0\63. Matrizes.pdb
+C:\Users\felip\source\C#\Primeiros passos\Aulas\63. Matrizes\63. Matrizes\obj\Debug\net5.0\63. Matrizes.csproj.AssemblyReference.cache
+C:\Users\felip\source\C#\Primeiros passos\Aulas\63. Matrizes\63. Matrizes\obj\Debug\net5.0\63. Matrizes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\source\C#\Primeiros passos\Aulas\63. Matrizes\63. Matrizes\obj\Debug\net5.0\63. Matrizes.AssemblyInfoInputs.cache
+C:\Users\felip\source\C#\Primeiros passos\Aulas\63. Matrizes\63. Matrizes\obj\Debug\net5.0\63. Matrizes.AssemblyInfo.cs
+C:\Users\felip\source\C#\Primeiros passos\Aulas\63. Matrizes\63. Matrizes\obj\Debug\net5.0\63. Matrizes.csproj.CoreCompileInputs.cache
+C:\Users\felip\source\C#\Primeiros passos\Aulas\63. Matrizes\63. Matrizes\obj\Debug\net5.0\63. Matrizes.dll
+C:\Users\felip\source\C#\Primeiros passos\Aulas\63. Matrizes\63. Matrizes\obj\Debug\net5.0\ref\63. Matrizes.dll
+C:\Users\felip\source\C#\Primeiros passos\Aulas\63. Matrizes\63. Matrizes\obj\Debug\net5.0\63. Matrizes.pdb
+C:\Users\felip\source\C#\Primeiros passos\Aulas\63. Matrizes\63. Matrizes\obj\Debug\net5.0\63. Matrizes.genruntimeconfig.cache

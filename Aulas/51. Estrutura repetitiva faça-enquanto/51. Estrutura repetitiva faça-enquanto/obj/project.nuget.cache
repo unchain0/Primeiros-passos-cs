@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0+TIP8/BURA1kSelcQh6zLqYMP/HFh4659lhWh4nelxrW0EhxWugrhFj4ROyyVmUzULibcoOmWs7TQ+oQ0gLyQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\felip\\source\\C#\\Primeiros passos\\Aulas\\51. Estrutura repetitiva faça-enquanto\\51. Estrutura repetitiva faça-enquanto\\51. Estrutura repetitiva faça-enquanto.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\felip\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.11\\microsoft.netcore.app.host.win-x64.5.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

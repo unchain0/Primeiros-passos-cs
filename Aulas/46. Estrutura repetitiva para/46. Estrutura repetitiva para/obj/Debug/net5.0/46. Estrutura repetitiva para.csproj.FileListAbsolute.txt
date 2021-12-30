@@ -1,0 +1,16 @@
+C:\Users\felip\source\C#\Primeiros passos\Aulas\46. Estrutura repetitiva para\46. Estrutura repetitiva para\bin\Debug\net5.0\46. Estrutura repetitiva para.exe
+C:\Users\felip\source\C#\Primeiros passos\Aulas\46. Estrutura repetitiva para\46. Estrutura repetitiva para\bin\Debug\net5.0\46. Estrutura repetitiva para.deps.json
+C:\Users\felip\source\C#\Primeiros passos\Aulas\46. Estrutura repetitiva para\46. Estrutura repetitiva para\bin\Debug\net5.0\46. Estrutura repetitiva para.runtimeconfig.json
+C:\Users\felip\source\C#\Primeiros passos\Aulas\46. Estrutura repetitiva para\46. Estrutura repetitiva para\bin\Debug\net5.0\46. Estrutura repetitiva para.runtimeconfig.dev.json
+C:\Users\felip\source\C#\Primeiros passos\Aulas\46. Estrutura repetitiva para\46. Estrutura repetitiva para\bin\Debug\net5.0\46. Estrutura repetitiva para.dll
+C:\Users\felip\source\C#\Primeiros passos\Aulas\46. Estrutura repetitiva para\46. Estrutura repetitiva para\bin\Debug\net5.0\ref\46. Estrutura repetitiva para.dll
+C:\Users\felip\source\C#\Primeiros passos\Aulas\46. Estrutura repetitiva para\46. Estrutura repetitiva para\bin\Debug\net5.0\46. Estrutura repetitiva para.pdb
+C:\Users\felip\source\C#\Primeiros passos\Aulas\46. Estrutura repetitiva para\46. Estrutura repetitiva para\obj\Debug\net5.0\46. Estrutura repetitiva para.csproj.AssemblyReference.cache
+C:\Users\felip\source\C#\Primeiros passos\Aulas\46. Estrutura repetitiva para\46. Estrutura repetitiva para\obj\Debug\net5.0\46. Estrutura repetitiva para.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\source\C#\Primeiros passos\Aulas\46. Estrutura repetitiva para\46. Estrutura repetitiva para\obj\Debug\net5.0\46. Estrutura repetitiva para.AssemblyInfoInputs.cache
+C:\Users\felip\source\C#\Primeiros passos\Aulas\46. Estrutura repetitiva para\46. Estrutura repetitiva para\obj\Debug\net5.0\46. Estrutura repetitiva para.AssemblyInfo.cs
+C:\Users\felip\source\C#\Primeiros passos\Aulas\46. Estrutura repetitiva para\46. Estrutura repetitiva para\obj\Debug\net5.0\46. Estrutura repetitiva para.csproj.CoreCompileInputs.cache
+C:\Users\felip\source\C#\Primeiros passos\Aulas\46. Estrutura repetitiva para\46. Estrutura repetitiva para\obj\Debug\net5.0\46. Estrutura repetitiva para.dll
+C:\Users\felip\source\C#\Primeiros passos\Aulas\46. Estrutura repetitiva para\46. Estrutura repetitiva para\obj\Debug\net5.0\ref\46. Estrutura repetitiva para.dll
+C:\Users\felip\source\C#\Primeiros passos\Aulas\46. Estrutura repetitiva para\46. Estrutura repetitiva para\obj\Debug\net5.0\46. Estrutura repetitiva para.pdb
+C:\Users\felip\source\C#\Primeiros passos\Aulas\46. Estrutura repetitiva para\46. Estrutura repetitiva para\obj\Debug\net5.0\46. Estrutura repetitiva para.genruntimeconfig.cache
